@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "js",
+        "target": "ES6"
+    },
+    "files": [
+        "ts/script.ts"
+    ]
+}
